@@ -1,0 +1,22 @@
+{
+    "centery": 566.515,
+    "centerz": 917.0178,
+    "distance": 142.9121,
+    "pixel": 0.172,
+    "lambda_Xray": 1.2398,
+    "incident_angle": 0.0,
+    "I_min": 1.0,
+    "I_max": 30000.0,
+    "radi_integ_angle": 309.0,
+    "radi_integ_range": 3.0,
+    "azuth_integ_q": 0.982,
+    "azuth_integ_q_range": 0.03,
+    "qxy1_min": -2.9037,
+    "qxy1_max": 2.268,
+    "qz1_min": 0.6367,
+    "qz1_max": -3.8344,
+    "qy2_min": -2.3732,
+    "qy2_max": 1.7743,
+    "qz2_min": 0.638,
+    "qz2_max": -4.2166
+}
